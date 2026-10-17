@@ -1,0 +1,5 @@
+{
+  "origins": ["https://words.bobchao.net"],
+  "originsRegex": ["http://localhost:[0-9]+", "https://[a-z0-9-]+\\.words-bobchao-net\\.pages\\.dev"],
+  "defaultCommentOrder": "oldest"
+}
